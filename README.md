@@ -1,1 +1,1 @@
-# RigVIT
+# Capstone
